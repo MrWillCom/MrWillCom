@@ -2,7 +2,7 @@
 
 I'm a JavaScript developer, working on some JavaScript open source projects, learning some JavaScript coding skills and sharing my JavaScript coding experiences.
 
-[Home Page](https://mrwillcom.github.io/)
+- [Home Page](https://mrwillcom.github.io/)
 
 #### Organizations
 
