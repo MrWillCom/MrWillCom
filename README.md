@@ -13,6 +13,7 @@ I'm a JavaScript developer, working on some JavaScript open source projects, lea
 #### Projects
 
 - [transmister/transmister-server-and-web](https://github.com/transmister/transmister-server-and-web)
+- [MrWillCom/github-dark-mode](https://github.com/MrWillCom/github-dark-mode)
 - [BOOK-BLOG/tooltiplery.js](https://github.com/BOOK-BLOG/tooltiplery.js)
 
 <!--
