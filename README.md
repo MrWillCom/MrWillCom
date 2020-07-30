@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=MrWillCom&show_icons=true&hide=stars&theme=dark)](https://github-readme-stats.vercel.app/api?username=MrWillCom&show_icons=true&hide=stars&theme=dark)
+
 I'm a JavaScript developer, working on some JavaScript open source projects, learning some JavaScript coding skills and sharing my JavaScript coding experiences.
 
 - [Home Page](https://mrwillcom.github.io/)
@@ -8,13 +10,11 @@ I'm a JavaScript developer, working on some JavaScript open source projects, lea
 
 - [BOOK-BLOG STUDIO](https://github.com/BOOK-BLOG)
 - [Transmister](https://github.com/transmister)
-- [Bootstrap Chinese Translation](https://github.com/bootstrap-chinese-translation)
 
 #### Projects
 
-- [transmister/transmister-server-and-web](https://github.com/transmister/transmister-server-and-web)
-- [MrWillCom/github-dark-mode](https://github.com/MrWillCom/github-dark-mode)
-- [BOOK-BLOG/tooltiplery.js](https://github.com/BOOK-BLOG/tooltiplery.js)
+[![transmister/transmister-server-and-web](https://github-readme-stats.vercel.app/api/pin/?username=transmister&repo=transmister-server-and-web&theme=dark)](https://github-readme-stats.vercel.app/api/pin/?username=transmister&repo=transmister-server-and-web&theme=dark)
+[![MrWillCom/github-dark-mode](https://github-readme-stats.vercel.app/api/pin/?username=MrWillCom&repo=github-dark-mode&theme=dark)](https://github-readme-stats.vercel.app/api/pin/?username=MrWillCom&repo=github-dark-mode&theme=dark)
 
 <!--
 **MrWillCom/MrWillCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
