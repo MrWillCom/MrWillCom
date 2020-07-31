@@ -11,8 +11,8 @@ I'm a JavaScript developer, working on some JavaScript open source projects, lea
 
 #### Projects
 
-[transmister/transmister-server-and-web](https://github.com/transmister/transmister-server-and-web)
-[MrWillCom/github-dark-mode](https://github.com/MrWillCom/github-dark-mode)
+- [transmister/transmister-server-and-web](https://github.com/transmister/transmister-server-and-web)
+- [MrWillCom/github-dark-mode](https://github.com/MrWillCom/github-dark-mode)
 
 <!--
 **MrWillCom/MrWillCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
