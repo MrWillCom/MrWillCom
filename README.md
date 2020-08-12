@@ -6,8 +6,8 @@ I'm a JavaScript developer, working on some JavaScript open source projects, lea
 
 #### Organizations
 
-- [BOOK-BLOG STUDIO](https://github.com/BOOK-BLOG)
 - [Transmister](https://github.com/transmister)
+- [BOOK-BLOG STUDIO](https://github.com/BOOK-BLOG)
 
 #### Projects
 
