@@ -13,6 +13,8 @@ I'm a JavaScript developer, working on some JavaScript open source projects, lea
 
 - [transmister/transmister-server-and-web](https://github.com/transmister/transmister-server-and-web)
 - [MrWillCom/github-dark-mode](https://github.com/MrWillCom/github-dark-mode)
+- [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+- [MrWillCom/css-and-js-windows-uwp-xaml-controls](https://github.com/MrWillCom/css-and-js-windows-uwp-xaml-controls)
 
 <!--
 **MrWillCom/MrWillCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
