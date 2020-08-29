@@ -12,6 +12,7 @@ I'm a JavaScript developer, working on some JavaScript open source projects, lea
 #### Projects
 
 - [transmister/transmister-server-and-web](https://github.com/transmister/transmister-server-and-web)
+- [MrWillCom/acrylic-reader](https://github.com/MrWillCom/acrylic-reader)
 - [MrWillCom/github-dark-mode](https://github.com/MrWillCom/github-dark-mode)
 - [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 - [MrWillCom/css-and-js-windows-uwp-xaml-controls](https://github.com/MrWillCom/css-and-js-windows-uwp-xaml-controls)
