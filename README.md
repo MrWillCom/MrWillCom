@@ -2,7 +2,9 @@
 
 I'm a JavaScript developer, working on some JavaScript open source projects, learning some JavaScript coding skills and sharing my JavaScript coding experiences.
 
-<div style="text-align: center; margin: 16px 4px"><a href="https://mrwillcom.now.sh/2020/09/01/From-Now-on-I-Won-t-Respond-on-Weekdays/" style="background-color: #fff;border: 1px solid #e1e4e8;border-radius: 6px;padding: 6px 12px;display: inline-block;"><strong>Cannot Contact Me? My Holiday is End.</strong> - <i>From Now on, I Can't Respond on Weekdays</i></a></div>
+**Cannot Contact Me?** My holiday is end, but you can still email me, I'll respond at weekends.
+
+To know more details, read [_From Now on, I Can't Respond on Weekdays_](https://mrwillcom.now.sh/2020/09/01/From-Now-on-I-Won-t-Respond-on-Weekdays/).
 
 - [Home Page](https://mrwillcom.now.sh/)
 
