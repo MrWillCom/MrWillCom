@@ -2,9 +2,13 @@
 
 I'm a JavaScript developer, working on some JavaScript open source projects, learning some JavaScript coding skills and sharing my JavaScript coding experiences.
 
+---
+
 **Cannot Contact Me?** My holiday is end, but you can still email me, I'll respond at weekends.
 
 To know more details, read [_From Now on, I Can't Respond on Weekdays_](https://mrwillcom.now.sh/2020/09/01/From-Now-on-I-Won-t-Respond-on-Weekdays/).
+
+---
 
 - [Home Page](https://mrwillcom.now.sh/)
 
