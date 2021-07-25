@@ -10,7 +10,7 @@ My workflow: ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual
 
 Reach me at: [![GitHub](https://img.shields.io/badge/MrWillCom-100000.svg?logo=github&logoColor=white)](https://github.com/MrWillCom) [![Outlook](https://img.shields.io/badge/mr.will.com%40outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:mr.will.com@outlook.com)
 
-My OS: ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+My OS: ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 Sponsor me by [![Patreon](https://img.shields.io/badge/MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom) [![Bitcoin](https://img.shields.io/badge/bc1q7h9ffcdv3h4daach7aqcypx9clgnhzqu5q2xx3-000000.svg?logo=bitcoin&logoColor=white)](bitcoin:bc1q7h9ffcdv3h4daach7aqcypx9clgnhzqu5q2xx3)
 
