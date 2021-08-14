@@ -16,5 +16,5 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/MrWillCom-F96854.svg?logo
 
 <details>
   <summary>Stats</summary>
-  <img src="https://github-readme-stats.mrwillcom.vercel.app/api?username=MrWillCom&hide_border=true&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" width="100%" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrWillCom&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" alt="Stats">
 </details>
