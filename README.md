@@ -12,7 +12,7 @@ Reach me at: [![GitHub](https://img.shields.io/badge/MrWillCom-100000.svg?logo=g
 
 My OS: ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
-Sponsor me by [![Patreon](https://img.shields.io/badge/MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom) [![Bitcoin](https://img.shields.io/badge/bc1q7h9ffcdv3h4daach7aqcypx9clgnhzqu5q2xx3-000000.svg?logo=bitcoin&logoColor=white)](bitcoin:bc1q7h9ffcdv3h4daach7aqcypx9clgnhzqu5q2xx3)
+Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom) [![Bitcoin](https://img.shields.io/badge/Bitcoin-View%20Addresses-000000.svg?logo=bitcoin&logoColor=white)](https://github.com/MrWillCom/MrWillCom/blob/master/bitcoin-addresses.txt)
 
 <details>
   <summary>Stats</summary>
