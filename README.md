@@ -8,7 +8,7 @@ I'm learning to use ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo
 
 My workflow: ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-black?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=white) ![BitBucket](https://img.shields.io/badge/BitBucket-darkblue?logo=bitbucket) ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel)
 
-Reach me at: [![GitHub](https://img.shields.io/badge/MrWillCom-100000.svg?logo=github&logoColor=white)](https://github.com/MrWillCom) [![Outlook](https://img.shields.io/badge/mr.will.com%40outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:mr.will.com@outlook.com)
+Reach me at: [![GitHub](https://img.shields.io/badge/GitHub-MrWillCom-100000.svg?logo=github&logoColor=white)](https://github.com/MrWillCom) [![Outlook](https://img.shields.io/badge/Outlook-mr.will.com%40outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:mr.will.com@outlook.com) [![Mastodon](https://img.shields.io/badge/Mastodon-@MrWillCom@noc.social-2b90d9?logo=mastodon&logoColor=white)](https://noc.social/@MrWillCom) [![Keybase](https://img.shields.io/badge/Keybase-mrwillcom-4c8eff?logo=keybase&logoColor=white)](https://keybase.io/mrwillcom)
 
 My OS: ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
