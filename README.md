@@ -10,9 +10,9 @@ My workflow: ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual
 
 Reach me at: [![GitHub](https://img.shields.io/badge/GitHub-MrWillCom-100000.svg?logo=github&logoColor=white)](https://github.com/MrWillCom) [![Outlook](https://img.shields.io/badge/Outlook-mr.will.com%40outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:mr.will.com@outlook.com) [![Mastodon](https://img.shields.io/badge/Mastodon-@MrWillCom@noc.social-2b90d9?logo=mastodon&logoColor=white)](https://noc.social/@MrWillCom) [![Keybase](https://img.shields.io/badge/Keybase-mrwillcom-4c8eff?logo=keybase&logoColor=white)](https://keybase.io/mrwillcom)
 
-My OS: ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+My OS: ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-242524?logo=apple&logoColor=white)
 
-Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom) [![Bitcoin](https://img.shields.io/badge/Bitcoin-View%20Addresses-000000.svg?logo=bitcoin&logoColor=white)](https://github.com/MrWillCom/MrWillCom/blob/master/bitcoin-addresses.txt)
+Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom) ![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1qd8w0qdjdj8gy6nr4cwvfywsv7w7ysqzwdf7sm5-000000.svg?logo=bitcoin&logoColor=white)
 
 <details>
   <summary>Stats</summary>
