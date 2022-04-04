@@ -17,6 +17,12 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 Enjoying ![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C.svg?logo=apple-music&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-JE%201.18.1-62B47A.svg?logo=mojang-studios&logoColor=white)
 
 <details>
+  <summary>WakaTime</summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
+<details>
   <summary>Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=MrWillCom&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" alt="Stats">
 </details>
