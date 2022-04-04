@@ -19,7 +19,66 @@ Enjoying ![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C.svg?l
 <details>
   <summary>WakaTime</summary>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
+🌆 Daytime    254 commits    ████████░░░░░░░░░░░░░░░░░   33.82% 
+🌃 Evening    427 commits    ██████████████░░░░░░░░░░░   56.86% 
+🌙 Night      16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
+Tuesday      91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+Wednesday    79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
+Thursday     69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
+Friday       84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
+Saturday     162 commits    █████░░░░░░░░░░░░░░░░░░░░   21.57% 
+Sunday       172 commits    █████░░░░░░░░░░░░░░░░░░░░   22.9%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               21 repos            █████████████░░░░░░░░░░░░   55.26% 
+CSS                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Swift                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/MrWillCom/MrWillCom/master/charts/bar_graph.png) 
+
+
+ Last Updated on 04/04/2022 05:12:31 UTC
+<!--END_SECTION:waka-->
 </details>
 
 <details>
