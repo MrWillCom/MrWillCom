@@ -17,8 +17,9 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 Enjoying ![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C.svg?logo=apple-music&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-JE%201.18.1-62B47A.svg?logo=mojang-studios&logoColor=white)
 
 <details>
-  <summary>WakaTime</summary>
-  <!--START_SECTION:waka-->
+<summary>WakaTime</summary>
+
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20mins-blue)
 
 **I'm a Night 🦉** 
@@ -79,6 +80,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
  Last Updated on 04/04/2022 05:12:31 UTC
 <!--END_SECTION:waka-->
+
 </details>
 
 <details>
