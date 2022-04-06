@@ -20,8 +20,6 @@ Enjoying ![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C.svg?l
 <summary>WakaTime</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%203%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -78,7 +76,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2022 12:07:20 UTC
+ Last Updated on 06/04/2022 18:45:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
