@@ -12,9 +12,9 @@ Reach me at: [![GitHub](https://img.shields.io/badge/GitHub-MrWillCom-181717.svg
 
 My OS: ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-242524?logo=apple&logoColor=white)
 
-Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom) ![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1qd8w0qdjdj8gy6nr4cwvfywsv7w7ysqzwdf7sm5-000000.svg?logo=bitcoin&logoColor=white)
-
 Enjoying ![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C.svg?logo=apple-music&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-JE%201.18.1-62B47A.svg?logo=mojang-studios&logoColor=white)
+
+Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom) ![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1qd8w0qdjdj8gy6nr4cwvfywsv7w7ysqzwdf7sm5-000000.svg?logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-0x44Baea5016C461aA838ff9B369A60246A9a540Eb-3C3C3D.svg?logo=ethereum&logoColor=white)
 
 <details>
 <summary>WakaTime</summary>
