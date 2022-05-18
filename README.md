@@ -16,8 +16,15 @@ Enjoying ![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C.svg?l
 
 Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom) ![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1qd8w0qdjdj8gy6nr4cwvfywsv7w7ysqzwdf7sm5-000000.svg?logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-0x44Baea5016C461aA838ff9B369A60246A9a540Eb-3C3C3D.svg?logo=ethereum&logoColor=white)
 
+---
+
+⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <details>
-<summary>WakaTime</summary>
+<summary>🕗 WakaTime</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2048%20mins-blue)
@@ -84,6 +91,6 @@ C#                       1 repo              ░░░░░░░░░░░�
 </details>
 
 <details>
-  <summary>Stats</summary>
+  <summary>📊 Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=MrWillCom&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" alt="Stats">
 </details>
