@@ -21,10 +21,10 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/MrWillCom/github-enhancing/issues/3) in [MrWillCom/github-enhancing](https://github.com/MrWillCom/github-enhancing)
-2. 🗣 Commented on [#3](https://github.com/MrWillCom/github-enhancing/issues/3) in [MrWillCom/github-enhancing](https://github.com/MrWillCom/github-enhancing)
-3. ❗️ Closed issue [#8](https://github.com/MrWillCom/hexo-theme-cupertino/issues/8) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-4. 🗣 Commented on [#3](https://github.com/MrWillCom/rsa-gui/issues/3) in [MrWillCom/rsa-gui](https://github.com/MrWillCom/rsa-gui)
+1. 🎉 Merged PR [#9](https://github.com/MrWillCom/hexo-theme-cupertino/pull/9) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+2. 🗣 Commented on [#9](https://github.com/MrWillCom/hexo-theme-cupertino/issues/9) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+3. ❗️ Closed issue [#3](https://github.com/MrWillCom/github-enhancing/issues/3) in [MrWillCom/github-enhancing](https://github.com/MrWillCom/github-enhancing)
+4. 🗣 Commented on [#3](https://github.com/MrWillCom/github-enhancing/issues/3) in [MrWillCom/github-enhancing](https://github.com/MrWillCom/github-enhancing)
 <!--END_SECTION:activity-->
 
 <details>
