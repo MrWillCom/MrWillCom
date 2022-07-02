@@ -31,7 +31,7 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 <summary>🕗 WakaTime</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm a Night 🦉** 
 
@@ -85,7 +85,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2022 18:51:16 UTC
+ Last Updated on 02/07/2022 18:44:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
