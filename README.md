@@ -99,3 +99,5 @@ Swift                    2 repos             █░░░░░░░░░░�
   <summary>📊 Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=MrWillCom&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" alt="Stats">
 </details>
+
+![](https://hit.yhype.me/github/profile?user_id=47271684)
