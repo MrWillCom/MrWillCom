@@ -62,14 +62,13 @@ Sunday       99 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-XML                      4 mins              ████████████████████░░░░░   81.11% 
-Other                    0 secs              ████░░░░░░░░░░░░░░░░░░░░░   18.89%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -86,7 +85,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2022 18:49:54 UTC
+ Last Updated on 12/09/2022 18:53:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
