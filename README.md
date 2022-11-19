@@ -10,9 +10,9 @@ My workflow: ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual
 
 Reach me at: [![GitHub](https://img.shields.io/badge/GitHub-MrWillCom-181717.svg?logo=github&logoColor=white)](https://github.com/MrWillCom) [![Outlook](https://img.shields.io/badge/Outlook-mr.will.com%40outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:mr.will.com@outlook.com) [![Mastodon](https://img.shields.io/badge/Mastodon-@MrWillCom@noc.social-3088D4?logo=mastodon&logoColor=white)](https://noc.social/@MrWillCom) [![Keybase](https://img.shields.io/badge/Keybase-mrwillcom-33A0FF?logo=keybase&logoColor=white)](https://keybase.io/mrwillcom) [![Figma](https://img.shields.io/badge/Figma-MrWillCom-F24E1E?logo=figma&logoColor=white)](https://figma.com/@MrWillCom)
 
-My OS: ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-242524?logo=apple&logoColor=white)
+My OS: ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![macOS Ventura](https://img.shields.io/badge/macOS%20Ventura-242524?logo=apple&logoColor=white)
 
-Enjoying ![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C.svg?logo=apple-music&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-JE%201.18.1-62B47A.svg?logo=mojang-studios&logoColor=white)
+Enjoying ![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C.svg?logo=apple-music&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-JE%201.19.2-62B47A.svg?logo=mojang-studios&logoColor=white)
 
 Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom) ![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1qd8w0qdjdj8gy6nr4cwvfywsv7w7ysqzwdf7sm5-000000.svg?logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-0x44Baea5016C461aA838ff9B369A60246A9a540Eb-3C3C3D.svg?logo=ethereum&logoColor=white)
 
