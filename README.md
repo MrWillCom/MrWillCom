@@ -21,9 +21,9 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/CLCK0622/OnlineTextbooks/pull/2) in [CLCK0622/OnlineTextbooks](https://github.com/CLCK0622/OnlineTextbooks)
-2. 🗣 Commented on [#34](https://github.com/MrWillCom/hexo-theme-cupertino/issues/34) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-3. 💪 Opened PR [#33](https://github.com/MrWillCom/hexo-theme-cupertino/pull/33) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+1. ❗️ Opened issue [#4](https://github.com/CLCK0622/OnlineTextbooks/issues/4) in [CLCK0622/OnlineTextbooks](https://github.com/CLCK0622/OnlineTextbooks)
+2. 💪 Opened PR [#2](https://github.com/CLCK0622/OnlineTextbooks/pull/2) in [CLCK0622/OnlineTextbooks](https://github.com/CLCK0622/OnlineTextbooks)
+3. 🗣 Commented on [#34](https://github.com/MrWillCom/hexo-theme-cupertino/issues/34) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 4. ❗️ Closed issue [#27](https://github.com/MrWillCom/hexo-theme-cupertino/issues/27) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 <!--END_SECTION:activity-->
 
