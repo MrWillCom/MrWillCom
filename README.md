@@ -21,7 +21,7 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/timqian/sideproject.guide/issues/8) in [timqian/sideproject.guide](https://github.com/timqian/sideproject.guide)
+1. 🗣 Commented on [#37](https://github.com/MrWillCom/hexo-theme-cupertino/issues/37) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 2. 💪 Opened PR [#8](https://github.com/timqian/sideproject.guide/pull/8) in [timqian/sideproject.guide](https://github.com/timqian/sideproject.guide)
 3. 🗣 Commented on [#2](https://github.com/saveweb/review-2022/issues/2) in [saveweb/review-2022](https://github.com/saveweb/review-2022)
 4. 💪 Opened PR [#2](https://github.com/saveweb/review-2022/pull/2) in [saveweb/review-2022](https://github.com/saveweb/review-2022)
