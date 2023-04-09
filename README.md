@@ -21,10 +21,10 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/remarkjs/remark-math/issues/81) in [remarkjs/remark-math](https://github.com/remarkjs/remark-math)
-2. ❗️ Opened issue [#81](https://github.com/remarkjs/remark-math/issues/81) in [remarkjs/remark-math](https://github.com/remarkjs/remark-math)
-3. 🗣 Commented on [#1504](https://github.com/shuding/nextra/issues/1504) in [shuding/nextra](https://github.com/shuding/nextra)
-4. 💪 Opened PR [#1504](https://github.com/shuding/nextra/pull/1504) in [shuding/nextra](https://github.com/shuding/nextra)
+1. ❗️ Opened issue [#491](https://github.com/sk22/megalodon/issues/491) in [sk22/megalodon](https://github.com/sk22/megalodon)
+2. 🗣 Commented on [#81](https://github.com/remarkjs/remark-math/issues/81) in [remarkjs/remark-math](https://github.com/remarkjs/remark-math)
+3. ❗️ Opened issue [#81](https://github.com/remarkjs/remark-math/issues/81) in [remarkjs/remark-math](https://github.com/remarkjs/remark-math)
+4. 🗣 Commented on [#1504](https://github.com/shuding/nextra/issues/1504) in [shuding/nextra](https://github.com/shuding/nextra)
 <!--END_SECTION:activity-->
 
 <details>
