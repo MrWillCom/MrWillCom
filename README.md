@@ -22,7 +22,7 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9421](https://github.com/logseq/logseq/issues/9421) in [logseq/logseq](https://github.com/logseq/logseq)
-2. ❗️ Opened issue [#491](https://github.com/sk22/megalodon/issues/491) in [sk22/megalodon](https://github.com/sk22/megalodon)
+2. ❗ Opened issue [#491](https://github.com/sk22/megalodon/issues/491) in [sk22/megalodon](https://github.com/sk22/megalodon)
 3. ❗️ Opened issue [#81](https://github.com/remarkjs/remark-math/issues/81) in [remarkjs/remark-math](https://github.com/remarkjs/remark-math)
 4. 🗣 Commented on [#1504](https://github.com/shuding/nextra/issues/1504) in [shuding/nextra](https://github.com/shuding/nextra)
 <!--END_SECTION:activity-->
