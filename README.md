@@ -60,14 +60,13 @@ Sunday                   388 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 9 mins         ███████████████████████░░   92.88 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +82,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2023 18:39:04 UTC
+ Last Updated on 09/07/2023 18:39:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
