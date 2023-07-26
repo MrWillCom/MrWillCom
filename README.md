@@ -21,9 +21,9 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9421](https://github.com/logseq/logseq/pull/9421#issuecomment-1550681297) in [logseq/logseq](https://github.com/logseq/logseq)
-2. ❗ Opened issue [#491](https://github.com/sk22/megalodon/issues/491) in [sk22/megalodon](https://github.com/sk22/megalodon)
-3. ❗️ Opened issue [#81](https://github.com/remarkjs/remark-math/issues/81) in [remarkjs/remark-math](https://github.com/remarkjs/remark-math)
+1. 🗣 Commented on [#40](https://github.com/MrWillCom/hexo-theme-cupertino/issues/40#issuecomment-1650851180) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+2. 🗣 Commented on [#39](https://github.com/MrWillCom/hexo-theme-cupertino/issues/39#issuecomment-1650848689) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+3. 🗣 Commented on [#40](https://github.com/MrWillCom/hexo-theme-cupertino/issues/40#issuecomment-1650843067) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 4. 🗣 Commented on [#1504](https://github.com/shuding/nextra/issues/1504) in [shuding/nextra](https://github.com/shuding/nextra)
 <!--END_SECTION:activity-->
 
