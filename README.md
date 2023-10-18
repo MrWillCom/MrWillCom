@@ -60,14 +60,13 @@ Sunday                   405 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-ActionScript 3           8 mins              ███████████████░░░░░░░░░░   60.15 % 
-TypeScript               5 mins              ██████████░░░░░░░░░░░░░░░   39.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +82,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2023 18:39:06 UTC
+ Last Updated on 18/10/2023 18:39:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
