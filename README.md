@@ -21,10 +21,10 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2596](https://github.com/shuding/nextra/issues/2596) in [shuding/nextra](https://github.com/shuding/nextra)
-2. 🗣 Commented on [#41](https://github.com/MrWillCom/hexo-theme-cupertino/issues/41#issuecomment-1683399937) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-3. 🔒 Closed issue [#41](https://github.com/MrWillCom/hexo-theme-cupertino/issues/41) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-4. 🔒 Closed issue [#39](https://github.com/MrWillCom/hexo-theme-cupertino/issues/39) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+1. 🗣 Commented on [#48](https://github.com/MrWillCom/hexo-theme-cupertino/pull/48#issuecomment-1879683404) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+2. 🔒 Closed issue [#47](https://github.com/MrWillCom/hexo-theme-cupertino/issues/47) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+3. 🎉 Merged PR [#48](https://github.com/MrWillCom/hexo-theme-cupertino/pull/48) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+4. 🗣 Commented on [#47](https://github.com/MrWillCom/hexo-theme-cupertino/issues/47#issuecomment-1879635933) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 <!--END_SECTION:activity-->
 
 <details>
