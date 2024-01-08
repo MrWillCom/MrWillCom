@@ -18,7 +18,7 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 
 ---
 
-⚡ Recent Activity
+**⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#48](https://github.com/MrWillCom/hexo-theme-cupertino/pull/48#issuecomment-1879683404) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
@@ -26,6 +26,11 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 3. 🎉 Merged PR [#48](https://github.com/MrWillCom/hexo-theme-cupertino/pull/48) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 4. 🗣 Commented on [#47](https://github.com/MrWillCom/hexo-theme-cupertino/issues/47#issuecomment-1879635933) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 <!--END_SECTION:activity-->
+
+**📕 Recent Posts**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <details>
 <summary>🕗 WakaTime</summary>
