@@ -43,42 +43,6 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2027%20mins-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-🌆 Daytime                810 commits         █████████░░░░░░░░░░░░░░░░   36.40 % 
-🌃 Evening                1078 commits        ████████████░░░░░░░░░░░░░   48.45 % 
-🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Tuesday                  304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Wednesday                330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Thursday                 262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Friday                   277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Saturday                 406 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Sunday                   429 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -92,7 +56,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 00:44:15 UTC
+ Last Updated on 11/04/2024 00:45:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
