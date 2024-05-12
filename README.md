@@ -41,7 +41,7 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 <summary>🕗 WakaTime</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2032%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -70,15 +70,13 @@ Sunday                   419 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 mins             ███████████████████░░░░░░   75.29 % 
-JSON                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,7 +92,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2024 00:45:59 UTC
+ Last Updated on 12/05/2024 00:51:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
