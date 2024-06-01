@@ -30,11 +30,11 @@ Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.
 **📕 Recent Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 年度总结](https://blog.mrwillcom.com/2023/12/26/2023-review/)
 - [这不过是个开场](https://blog.mrwillcom.com/2022/12/19/It-s-just-the-Beginning/)
 - [Hello, Tags, Categories, LaTeX and Rainbow!](https://blog.mrwillcom.com/2022/05/31/Hello-Tags-Categories-LaTeX-and-Rainbow/)
 - [Encrypt it on Your Own!](https://blog.mrwillcom.com/2021/08/14/Encrypt-it-on-Your-Own/)
 - [About Comments](https://blog.mrwillcom.com/2021/07/16/About-Comments/)
-- [GitHub&#39;s Own Dark Mode!](https://blog.mrwillcom.com/2020/12/11/GitHub-s-Own-Dark-Mode/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
