@@ -14,7 +14,7 @@ My OS: ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=micro
 
 Enjoying ![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C.svg?logo=apple-music&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-JE%201.19.2-62B47A.svg?logo=mojang-studios&logoColor=white)
 
-Sponsor me by [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom) ![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1qd8w0qdjdj8gy6nr4cwvfywsv7w7ysqzwdf7sm5-000000.svg?logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-0x44Baea5016C461aA838ff9B369A60246A9a540Eb-3C3C3D.svg?logo=ethereum&logoColor=white)
+Sponsor me through [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom) ![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1q8vt874umc32hx4h5nfjechzdn0nuc3mj4g0uq0-000000.svg?logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-0x44Baea5016C461aA838ff9B369A60246A9a540Eb-3C3C3D.svg?logo=ethereum&logoColor=white)
 
 ---
 
