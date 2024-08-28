@@ -101,7 +101,8 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 <details>
   <summary>📊 Stats</summary>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MrWillCom" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=MrWillCom&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" alt="Stats">
+  <img src="https://ghrs.mrwillcom.com/api?username=MrWillCom&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" alt="Stats">
   <img src="https://api.githubtrends.io/user/svg/MrWillCom/langs?time_range=one_year&loc_metric=changed&compact=True&theme=classic" alt="Most used languages">
+  <img src="https://ghrs.mrwillcom.com/api/wakatime?username=MrWillCom&layout=compact" alt="WakaTime Stats about time I spent on languages">
+  <img src="https://streak-stats.demolab.com?user=MrWillCom" alt="GitHub Streak">
 </details>
