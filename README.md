@@ -19,10 +19,10 @@ Sponsor me through [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F9
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/RubyMetric/chsrc/issues/53#issuecomment-2315670054) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
-2. 💪 Opened PR [#56](https://github.com/RubyMetric/chsrc/pull/56) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
-3. ❗ Opened issue [#53](https://github.com/RubyMetric/chsrc/issues/53) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
-4. 🎉 Merged PR [#58](https://github.com/MrWillCom/hexo-theme-cupertino/pull/58) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+1. 🗣 Commented on [#53](https://github.com/RubyMetric/chsrc/issues/53#issuecomment-2317864222) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
+2. 🗣 Commented on [#53](https://github.com/RubyMetric/chsrc/issues/53#issuecomment-2315670054) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
+3. 💪 Opened PR [#56](https://github.com/RubyMetric/chsrc/pull/56) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
+4. ❗ Opened issue [#53](https://github.com/RubyMetric/chsrc/issues/53) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
 <!--END_SECTION:activity-->
 
 **📕 Recent Posts**
