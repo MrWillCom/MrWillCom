@@ -4,15 +4,36 @@ I'm Mr. Will, a frontend hobbyist.
 
 I work with ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white) ![Nextra](https://img.shields.io/badge/Nextra-000000.svg?logo=nextra&logoColor=white) ![Hexo](https://img.shields.io/badge/Hexo-0E83CD.svg?logo=hexo&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65.svg?logo=ejs&logoColor=black) ![Eleventy](https://img.shields.io/badge/Eleventy-222222.svg?logo=eleventy) ![Nunjucks](https://img.shields.io/badge/Nunjucks-1C4913.svg?logo=nunjucks) ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 
-My workflow: ![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC) ![Git](https://img.shields.io/badge/Git-black?logo=git) ![Tower](https://img.shields.io/badge/Tower-181717?logo=tower) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel)
+My workflow goes with ![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC) ![Git](https://img.shields.io/badge/Git-black?logo=git) ![Tower](https://img.shields.io/badge/Tower-181717?logo=tower) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel)
 
-Reach me at: [![GitHub](https://img.shields.io/badge/GitHub-MrWillCom-181717.svg?logo=github&logoColor=white)](https://github.com/MrWillCom) [![Outlook](https://img.shields.io/badge/Outlook-mr.will.com%40outlook.com-0078D4)](mailto:mr.will.com@outlook.com) [![npm](https://img.shields.io/badge/npm-mrwillcom-white.svg?logo=npm&labelColor=CB3837)](https://www.npmjs.com/~mrwillcom) [![Mastodon](https://img.shields.io/badge/Mastodon-@MrWillCom@noc.social-6364FF?logo=mastodon&logoColor=white)](https://noc.social/@MrWillCom) [![Keybase](https://img.shields.io/badge/Keybase-mrwillcom-33A0FF?logo=keybase&logoColor=white)](https://keybase.io/mrwillcom) [![Figma](https://img.shields.io/badge/Figma-MrWillCom-F24E1E?logo=figma&logoColor=white)](https://figma.com/@MrWillCom)
+Reach me with [![GitHub](https://img.shields.io/badge/GitHub-MrWillCom-181717.svg?logo=github&logoColor=white)](https://github.com/MrWillCom) [![Outlook](https://img.shields.io/badge/Outlook-mr.will.com%40outlook.com-0078D4)](mailto:mr.will.com@outlook.com) [![npm](https://img.shields.io/badge/npm-mrwillcom-white.svg?logo=npm&labelColor=CB3837)](https://www.npmjs.com/~mrwillcom) [![Mastodon](https://img.shields.io/badge/Mastodon-@MrWillCom@noc.social-6364FF?logo=mastodon&logoColor=white)](https://noc.social/@MrWillCom) [![Keybase](https://img.shields.io/badge/Keybase-mrwillcom-33A0FF?logo=keybase&logoColor=white)](https://keybase.io/mrwillcom) [![Figma](https://img.shields.io/badge/Figma-MrWillCom-F24E1E?logo=figma&logoColor=white)](https://figma.com/@MrWillCom)
 
-My OS: ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![macOS Sonoma](https://img.shields.io/badge/macOS%20Sonoma-242524?logo=apple&logoColor=white)
+My OS ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![macOS Sonoma](https://img.shields.io/badge/macOS%20Sonoma-242524?logo=apple&logoColor=white)
 
-Enjoying ![Minecraft](https://img.shields.io/badge/Genshin%20Impact-Natlan-F15732.svg?logo=mojang-studios&logoColor=white) ![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C.svg?logo=apple-music&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-JE%201.19.2-62B47A.svg)
+I enjoy ![Minecraft](https://img.shields.io/badge/Genshin%20Impact-Natlan-F15732.svg?logo=mojang-studios&logoColor=white) ![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C.svg?logo=apple-music&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-JE%201.19.2-62B47A.svg)
 
 Sponsor me through [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom) ![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1q8vt874umc32hx4h5nfjechzdn0nuc3mj4g0uq0-000000.svg?logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-0x44Baea5016C461aA838ff9B369A60246A9a540Eb-3C3C3D.svg?logo=ethereum&logoColor=white)
+
+<details>
+<summary>Encrypt with <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D3687F71F6BC089FD3A9A7BE1EED2577E3E753CA"><img src="https://img.shields.io/badge/GnuPG-D368%207F71%20F6BC%20089F%20D3A9%20A7BE%201EED%202577%20E3E7%2053CA-0093DD.svg?logo=gnuprivacyguard&logoColor=white" alt="GnuPG"></a></summary>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZp3SJBYJKwYBBAHaRw8BAQdAFou63F618eo65AMZVFy1oGu79XlUSsPtaGRw
+jmt412y0Ik1yLiBXaWxsIDxtci53aWxsLmNvbUBvdXRsb29rLmNvbT6IkwQTFgoA
+OxYhBNNof3H2vAif06mnvh7tJXfj51PKBQJmndIkAhsDBQsJCAcCAiICBhUKCQgL
+AgQWAgMBAh4HAheAAAoJEB7tJXfj51PKtxMA/1TpjvUXLkdoCzoV/Mynt8DakK4r
+bxkvqRJyiSvJPB4NAQC+x6bCKAIUFy+sybOjVfRJ5RC9zjIFLx5koBMMSzuQCbg4
+BGad0iQSCisGAQQBl1UBBQEBB0DMKLmlumoZSYYLorm7BP6u+4FuZudlUmFW//Va
+W7IIfQMBCAeIeAQYFgoAIBYhBNNof3H2vAif06mnvh7tJXfj51PKBQJmndIkAhsM
+AAoJEB7tJXfj51PKwLMBAJ8m1Db6zKiUIEzNLsNzG4zRxf3CpCUb8FFoS4reio8V
+AQDnONSSRJU5OfOthOmvKHGN4n1sGDZymZdtXNv39XfbAA==
+=GoZv
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</details>
 
 ---
 
