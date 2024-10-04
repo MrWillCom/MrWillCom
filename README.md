@@ -49,11 +49,11 @@ AQDnONSSRJU5OfOthOmvKHGN4n1sGDZymZdtXNv39XfbAA==
 **📕 Recent Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [数模转换：微喷打印影像输出！](https://blog.mrwillcom.com/2024/10/03/DAC-Giclee-Photography-Output/)
 - [“严谨”的混乱——数学](https://blog.mrwillcom.com/2024/06/02/The-Messy-Math/)
 - [2023 年度总结](https://blog.mrwillcom.com/2023/12/26/2023-review/)
 - [这不过是个开场](https://blog.mrwillcom.com/2022/12/19/It-s-just-the-Beginning/)
 - [Hello, Tags, Categories, LaTeX and Rainbow!](https://blog.mrwillcom.com/2022/05/31/Hello-Tags-Categories-LaTeX-and-Rainbow/)
-- [Encrypt it on Your Own!](https://blog.mrwillcom.com/2021/08/14/Encrypt-it-on-Your-Own/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
