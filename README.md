@@ -40,7 +40,7 @@ AQDnONSSRJU5OfOthOmvKHGN4n1sGDZymZdtXNv39XfbAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/MrWillCom/hexo-theme-cupertino/pull/64) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+1. 🗣 Commented on [#2596](https://github.com/shuding/nextra/issues/2596#issuecomment-2424735646) in [shuding/nextra](https://github.com/shuding/nextra)
 2. 🔒 Closed issue [#53](https://github.com/RubyMetric/chsrc/issues/53) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
 3. 🗣 Commented on [#53](https://github.com/RubyMetric/chsrc/issues/53#issuecomment-2317864222) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
 4. 🗣 Commented on [#53](https://github.com/RubyMetric/chsrc/issues/53#issuecomment-2315670054) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
