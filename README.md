@@ -60,7 +60,7 @@ AQDnONSSRJU5OfOthOmvKHGN4n1sGDZymZdtXNv39XfbAA==
 <summary>🕗 WakaTime</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2015%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -89,13 +89,14 @@ Sunday                   441 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSV                      15 mins             ███████████████░░░░░░░░░░   58.19 % 
+Markdown                 11 mins             ██████████░░░░░░░░░░░░░░░   41.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  26 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +112,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2025 01:12:11 UTC
+ Last Updated on 02/04/2025 01:05:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
