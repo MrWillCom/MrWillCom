@@ -13,7 +13,7 @@ My workflow goes with ![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=
 
 Reach me with [![GitHub](https://img.shields.io/badge/GitHub-MrWillCom-181717.svg?logo=github&logoColor=white)](https://github.com/MrWillCom) [![Outlook](https://img.shields.io/badge/Outlook-mr.will.com%40outlook.com-0078D4)](mailto:mr.will.com@outlook.com) [![npm](https://img.shields.io/badge/npm-mrwillcom-white.svg?logo=npm&labelColor=CB3837)](https://www.npmjs.com/~mrwillcom) [![Mastodon](https://img.shields.io/badge/Mastodon-@MrWillCom@noc.social-6364FF?logo=mastodon&logoColor=white)](https://noc.social/@MrWillCom) [![Keybase](https://img.shields.io/badge/Keybase-mrwillcom-33A0FF?logo=keybase&logoColor=white)](https://keybase.io/mrwillcom) [![Figma](https://img.shields.io/badge/Figma-MrWillCom-F24E1E?logo=figma&logoColor=white)](https://figma.com/@MrWillCom)
 
-My OS ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![macOS Sonoma](https://img.shields.io/badge/macOS%20Sonoma-242524?logo=apple&logoColor=white)
+My OS ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![macOS Sonoma](https://img.shields.io/badge/macOS%20Sequoia-242524?logo=apple&logoColor=white)
 
 I enjoy ![Minecraft](https://img.shields.io/badge/Genshin%20Impact-Natlan-F15732.svg?logo=mojang-studios&logoColor=white) ![Apple Music](https://img.shields.io/badge/-Apple%20Music-FA243C.svg?logo=apple-music&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-JE%201.19.2-62B47A.svg)
 
@@ -67,54 +67,54 @@ AQDnONSSRJU5OfOthOmvKHGN4n1sGDZymZdtXNv39XfbAA==
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2031%20mins-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-🌆 Daytime                869 commits         █████████░░░░░░░░░░░░░░░░   34.66 % 
-🌃 Evening                1244 commits        ████████████░░░░░░░░░░░░░   49.62 % 
-🌙 Night                  85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+🌞 Morning                309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+🌆 Daytime                869 commits         █████████░░░░░░░░░░░░░░░░   34.66 %
+🌃 Evening                1244 commits        ████████████░░░░░░░░░░░░░   49.62 %
+🌙 Night                  85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday                   287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Tuesday                  367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Wednesday                385 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Thursday                 283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Friday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Saturday                 460 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Sunday                   452 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Monday                   287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Tuesday                  367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 %
+Wednesday                385 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+Thursday                 283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+Friday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Saturday                 460 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 %
+Sunday                   452 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-TypeScript               6 hrs 54 mins       █████████████░░░░░░░░░░░░   52.63 % 
-SCSS                     3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-EJS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+💬 Programming Languages:
+TypeScript               6 hrs 54 mins       █████████████░░░░░░░░░░░░   52.63 %
+SCSS                     3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+EJS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 
-🔥 Editors: 
-VS Code                  13 hrs 7 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  13 hrs 7 mins       █████████████████████████   100.00 %
 
-💻 Operating System: 
-Mac                      13 hrs 7 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      13 hrs 7 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               18 repos            █████████░░░░░░░░░░░░░░░░   36.73 % 
-TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-SCSS                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JavaScript               18 repos            █████████░░░░░░░░░░░░░░░░   36.73 %
+TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 %
+SCSS                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 
