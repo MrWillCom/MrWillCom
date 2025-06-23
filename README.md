@@ -94,16 +94,13 @@ Sunday                   452 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 32 mins       ████████████████████░░░░░   78.43 % 
-SCSS                     1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 47 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 47 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +116,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2025 01:18:06 UTC
+ Last Updated on 23/06/2025 01:15:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
