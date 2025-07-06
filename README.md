@@ -40,10 +40,10 @@ AQDnONSSRJU5OfOthOmvKHGN4n1sGDZymZdtXNv39XfbAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#545](https://github.com/stackbit/jamstackthemes/pull/545) in [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes)
-2. 💪 Opened PR [#2396](https://github.com/hexojs/site/pull/2396) in [hexojs/site](https://github.com/hexojs/site)
-3. 🎉 Merged PR [#2](https://github.com/MrWillCom/hexo-theme-cupertino-docs/pull/2) in [MrWillCom/hexo-theme-cupertino-docs](https://github.com/MrWillCom/hexo-theme-cupertino-docs)
-4. 🎉 Merged PR [#76](https://github.com/MrWillCom/hexo-theme-cupertino/pull/76) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+1. 🚀 Published release [v0.1.0](https://github.com/MrWillCom/TurbulentFlux/releases/tag/v0.1.0) in [MrWillCom/TurbulentFlux](https://github.com/MrWillCom/TurbulentFlux)
+2. 💪 Opened PR [#545](https://github.com/stackbit/jamstackthemes/pull/545) in [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes)
+3. 💪 Opened PR [#2396](https://github.com/hexojs/site/pull/2396) in [hexojs/site](https://github.com/hexojs/site)
+4. 🎉 Merged PR [#2](https://github.com/MrWillCom/hexo-theme-cupertino-docs/pull/2) in [MrWillCom/hexo-theme-cupertino-docs](https://github.com/MrWillCom/hexo-theme-cupertino-docs)
 <!--END_SECTION:activity-->
 
 **📕 Recent Posts**
