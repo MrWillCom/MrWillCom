@@ -40,10 +40,10 @@ AQDnONSSRJU5OfOthOmvKHGN4n1sGDZymZdtXNv39XfbAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/MrWillCom/hexo-theme-cupertino/pull/74) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-2. ❌ Closed PR [#66](https://github.com/MrWillCom/hexo-theme-cupertino/pull/66) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-3. 🗣 Commented on [#66](https://github.com/MrWillCom/hexo-theme-cupertino/pull/66#issuecomment-3021435811) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-4. 🎉 Merged PR [#73](https://github.com/MrWillCom/hexo-theme-cupertino/pull/73) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+1. 💪 Opened PR [#545](https://github.com/stackbit/jamstackthemes/pull/545) in [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes)
+2. 💪 Opened PR [#2396](https://github.com/hexojs/site/pull/2396) in [hexojs/site](https://github.com/hexojs/site)
+3. 🎉 Merged PR [#2](https://github.com/MrWillCom/hexo-theme-cupertino-docs/pull/2) in [MrWillCom/hexo-theme-cupertino-docs](https://github.com/MrWillCom/hexo-theme-cupertino-docs)
+4. 🎉 Merged PR [#76](https://github.com/MrWillCom/hexo-theme-cupertino/pull/76) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 <!--END_SECTION:activity-->
 
 **📕 Recent Posts**
