@@ -15,21 +15,11 @@ I enjoy ![Minecraft](https://img.shields.io/badge/Genshin%20Impact-Natlan-F15732
 Sponsor me through [![Liberapay](https://img.shields.io/badge/Liberapay-MrWillCom-F6C915.svg?logo=liberapay&logoColor=white)](https://liberapay.com/MrWillCom/donate) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-mrwillcom-FFDD00.svg?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/mrwillcom) ![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1q8vt874umc32hx4h5nfjechzdn0nuc3mj4g0uq0-000000.svg?logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-0x44Baea5016C461aA838ff9B369A60246A9a540Eb-3C3C3D.svg?logo=ethereum&logoColor=white) [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom)
 
 <details>
-<summary>Encrypt with <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D3687F71F6BC089FD3A9A7BE1EED2577E3E753CA"><img src="https://img.shields.io/badge/GnuPG-D368%207F71%20F6BC%20089F%20D3A9%20A7BE%201EED%202577%20E3E7%2053CA-0093DD.svg?logo=gnuprivacyguard&logoColor=white" alt="GnuPG"></a></summary>
+<summary>(Keys are updating, available soon) Encrypt with <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"><img src="https://img.shields.io/badge/GnuPG-XXXX%20XXXX%20XXXX%20XXXX%20XXXX%20XXXX%20XXXX%20XXXX%20XXXX%20XXXX-0093DD.svg?logo=gnuprivacyguard&logoColor=white" alt="GnuPG"></a></summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-mDMEZp3SJBYJKwYBBAHaRw8BAQdAFou63F618eo65AMZVFy1oGu79XlUSsPtaGRw
-jmt412y0Ik1yLiBXaWxsIDxtci53aWxsLmNvbUBvdXRsb29rLmNvbT6IkwQTFgoA
-OxYhBNNof3H2vAif06mnvh7tJXfj51PKBQJmndIkAhsDBQsJCAcCAiICBhUKCQgL
-AgQWAgMBAh4HAheAAAoJEB7tJXfj51PKtxMA/1TpjvUXLkdoCzoV/Mynt8DakK4r
-bxkvqRJyiSvJPB4NAQC+x6bCKAIUFy+sybOjVfRJ5RC9zjIFLx5koBMMSzuQCbg4
-BGad0iQSCisGAQQBl1UBBQEBB0DMKLmlumoZSYYLorm7BP6u+4FuZudlUmFW//Va
-W7IIfQMBCAeIeAQYFgoAIBYhBNNof3H2vAif06mnvh7tJXfj51PKBQJmndIkAhsM
-AAoJEB7tJXfj51PKwLMBAJ8m1Db6zKiUIEzNLsNzG4zRxf3CpCUb8FFoS4reio8V
-AQDnONSSRJU5OfOthOmvKHGN4n1sGDZymZdtXNv39XfbAA==
-=GoZv
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
