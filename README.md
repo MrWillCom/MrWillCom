@@ -60,7 +60,7 @@ AQDnONSSRJU5OfOthOmvKHGN4n1sGDZymZdtXNv39XfbAA==
 <summary>🕗 WakaTime</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2018%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -89,13 +89,14 @@ Sunday                   464 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 43 mins        █████████████████████████   100.00 % 
+Markdown                 1 hr 47 mins        █████████████████████████   98.81 % 
+Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 43 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +112,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2025 01:14:37 UTC
+ Last Updated on 03/08/2025 01:24:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
