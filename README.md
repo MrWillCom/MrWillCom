@@ -15,11 +15,21 @@ I enjoy ![Minecraft](https://img.shields.io/badge/Genshin%20Impact-Natlan-F15732
 Sponsor me through [![Liberapay](https://img.shields.io/badge/Liberapay-MrWillCom-F6C915.svg?logo=liberapay&logoColor=white)](https://liberapay.com/MrWillCom/donate) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-mrwillcom-FFDD00.svg?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/mrwillcom) ![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1q8vt874umc32hx4h5nfjechzdn0nuc3mj4g0uq0-000000.svg?logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-0x44Baea5016C461aA838ff9B369A60246A9a540Eb-3C3C3D.svg?logo=ethereum&logoColor=white) [![Patreon](https://img.shields.io/badge/Patreon-MrWillCom-F96854.svg?logo=patreon&logoColor=white)](https://www.patreon.com/MrWillCom)
 
 <details>
-<summary>(Keys are updating, available soon) Encrypt with <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"><img src="https://img.shields.io/badge/GnuPG-XXXX%20XXXX%20XXXX%20XXXX%20XXXX%20XXXX%20XXXX%20XXXX%20XXXX%20XXXX-0093DD.svg?logo=gnuprivacyguard&logoColor=white" alt="GnuPG"></a></summary>
+<summary>Encrypt with <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/613FE687DACDB3C78B0C68AF9E176B2DDDCB13EA"><img src="https://img.shields.io/badge/GnuPG-613F%20E687%20DACD%20B3C7%208B0C%2068AF%209E17%206B2D%20DDCB%2013EA-0093DD.svg?logo=gnuprivacyguard&logoColor=white" alt="GnuPG"></a></summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
+mDMEaI9+7xYJKwYBBAHaRw8BAQdAGJlYYZjpOo1uek3gMBDxaj6sBRcClSNpiGfz
+t90JFDG0Ik1yLiBXaWxsIDxtci53aWxsLmNvbUBvdXRsb29rLmNvbT6ImQQTFgoA
+QRYhBGE/5ofazbPHiwxor54Xay3dyxPqBQJoj37vAhsDBQkB4TOABQsJCAcCAiIC
+BhUKCQgLAgQWAgMBAh4HAheAAAoJEJ4Xay3dyxPqLWQBAPrsgfnyEiq6E/FlFXjI
+o+1ujtmoSaiT/eWJXL656iRzAQD3bllXRqiCh+Kq1DbGMGBGFno9g/r8DE/NjnCX
+6svAAbg4BGiPfu8SCisGAQQBl1UBBQEBB0Beie/9Jdr7fZiIARX2QnJx2KwXmAu8
+wB6npnstjJQoQQMBCAeIfgQYFgoAJhYhBGE/5ofazbPHiwxor54Xay3dyxPqBQJo
+j37vAhsMBQkB4TOAAAoJEJ4Xay3dyxPqkDUBAKdSlRu2BDkqcOospCUi7Anz4Dwi
+RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
+=BkGG
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
@@ -52,51 +62,51 @@ Sponsor me through [![Liberapay](https://img.shields.io/badge/Liberapay-MrWillCo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2018%20mins-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-🌆 Daytime                894 commits         █████████░░░░░░░░░░░░░░░░   34.36 % 
-🌃 Evening                1262 commits        ████████████░░░░░░░░░░░░░   48.50 % 
-🌙 Night                  117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+🌞 Morning                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+🌆 Daytime                894 commits         █████████░░░░░░░░░░░░░░░░   34.36 %
+🌃 Evening                1262 commits        ████████████░░░░░░░░░░░░░   48.50 %
+🌙 Night                  117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Tuesday                  399 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Wednesday                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Thursday                 282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Friday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Saturday                 476 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Sunday                   464 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Monday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Tuesday                  399 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 %
+Wednesday                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 %
+Thursday                 282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Friday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+Saturday                 476 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 %
+Sunday                   464 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-Markdown                 1 hr 47 mins        █████████████████████████   98.81 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+💬 Programming Languages:
+Markdown                 1 hr 47 mins        █████████████████████████   98.81 %
+Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 
-🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  1 hr 48 mins        █████████████████████████   100.00 %
 
-💻 Operating System: 
-Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      1 hr 48 mins        █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               20 repos            ██████████░░░░░░░░░░░░░░░   39.22 % 
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JavaScript               20 repos            ██████████░░░░░░░░░░░░░░░   39.22 %
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 %
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 
