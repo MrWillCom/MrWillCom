@@ -40,10 +40,10 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/MrWillCom/TurbulentFlux/releases/tag/v1.0.1) in [MrWillCom/TurbulentFlux](https://github.com/MrWillCom/TurbulentFlux)
-2. 🚀 Published release [v1.0.0](https://github.com/MrWillCom/TurbulentFlux/releases/tag/v1.0.0) in [MrWillCom/TurbulentFlux](https://github.com/MrWillCom/TurbulentFlux)
-3. 🚀 Published release [v0.1.0](https://github.com/MrWillCom/TurbulentFlux/releases/tag/v0.1.0) in [MrWillCom/TurbulentFlux](https://github.com/MrWillCom/TurbulentFlux)
-4. 💪 Opened PR [#545](https://github.com/stackbit/jamstackthemes/pull/545) in [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes)
+1. ❗ Opened issue [#1276](https://github.com/1Password/for-open-source/issues/1276) in [1Password/for-open-source](https://github.com/1Password/for-open-source)
+2. 🚀 Published release [v1.0.1](https://github.com/MrWillCom/TurbulentFlux/releases/tag/v1.0.1) in [MrWillCom/TurbulentFlux](https://github.com/MrWillCom/TurbulentFlux)
+3. 🚀 Published release [v1.0.0](https://github.com/MrWillCom/TurbulentFlux/releases/tag/v1.0.0) in [MrWillCom/TurbulentFlux](https://github.com/MrWillCom/TurbulentFlux)
+4. 🚀 Published release [v0.1.0](https://github.com/MrWillCom/TurbulentFlux/releases/tag/v0.1.0) in [MrWillCom/TurbulentFlux](https://github.com/MrWillCom/TurbulentFlux)
 <!--END_SECTION:activity-->
 
 **📕 Recent Posts**
