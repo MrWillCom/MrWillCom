@@ -49,11 +49,11 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **📕 Recent Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Kickstarting a New Mac](https://blog.mrwillcom.com/2025/08/18/Kickstarting-a-New-Mac/)
 - [Refining My Domain Email](https://blog.mrwillcom.com/2025/08/01/Refining-My-Domain-Email/)
 - [2024：浏览器从 A 到 Z](https://blog.mrwillcom.com/2025/03/04/2024-browser-from-a-to-z/)
 - [数模转换：微喷打印影像输出！](https://blog.mrwillcom.com/2024/10/03/DAC-Giclee-Photography-Output/)
 - [“严谨”的混乱——数学](https://blog.mrwillcom.com/2024/06/02/The-Messy-Math/)
-- [2023 年度总结](https://blog.mrwillcom.com/2023/12/26/2023-review/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
