@@ -60,6 +60,44 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 <summary>🕗 WakaTime</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2021%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+🌆 Daytime                920 commits         ████████░░░░░░░░░░░░░░░░░   33.94 % 
+🌃 Evening                1312 commits        ████████████░░░░░░░░░░░░░   48.40 % 
+🌙 Night                  139 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Tuesday                  433 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Wednesday                413 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Thursday                 289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Friday                   297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Saturday                 478 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Sunday                   470 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -73,7 +111,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 01:03:46 UTC
+ Last Updated on 24/09/2025 01:04:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
