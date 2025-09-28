@@ -40,7 +40,7 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1276](https://github.com/1Password/for-open-source/issues/1276) in [1Password/for-open-source](https://github.com/1Password/for-open-source)
+1. 🎉 Merged PR [#77](https://github.com/MrWillCom/hexo-theme-cupertino/pull/77) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 2. 🚀 Published release [v1.0.1](https://github.com/MrWillCom/TurbulentFlux/releases/tag/v1.0.1) in [MrWillCom/TurbulentFlux](https://github.com/MrWillCom/TurbulentFlux)
 3. 🚀 Published release [v1.0.0](https://github.com/MrWillCom/TurbulentFlux/releases/tag/v1.0.0) in [MrWillCom/TurbulentFlux](https://github.com/MrWillCom/TurbulentFlux)
 4. 🚀 Published release [v0.1.0](https://github.com/MrWillCom/TurbulentFlux/releases/tag/v0.1.0) in [MrWillCom/TurbulentFlux](https://github.com/MrWillCom/TurbulentFlux)
