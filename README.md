@@ -40,10 +40,10 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4826](undefined) in [shuding/nextra](https://github.com/shuding/nextra)
-2.  Labeled issue [#4825](https://github.com/shuding/nextra/issues/4825) in [shuding/nextra](https://github.com/shuding/nextra)
-3. ❗ Opened issue [#4825](https://github.com/shuding/nextra/issues/4825) in [shuding/nextra](https://github.com/shuding/nextra)
-4. 💪 Opened PR [#213](undefined) in [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel)
+1. ❌ Assigned PR [#83](undefined) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+2. 💪 Opened PR [#4826](undefined) in [shuding/nextra](https://github.com/shuding/nextra)
+3.  Labeled issue [#4825](https://github.com/shuding/nextra/issues/4825) in [shuding/nextra](https://github.com/shuding/nextra)
+4. ❗ Opened issue [#4825](https://github.com/shuding/nextra/issues/4825) in [shuding/nextra](https://github.com/shuding/nextra)
 <!--END_SECTION:activity-->
 
 **📕 Recent Posts**
