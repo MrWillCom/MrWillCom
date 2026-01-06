@@ -60,7 +60,7 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 <summary>🕗 WakaTime</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%205%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -115,7 +115,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 01:22:29 UTC
+ Last Updated on 06/01/2026 01:17:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
