@@ -49,11 +49,11 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **📕 Recent Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind as a Headwind](https://blog.mrwillcom.com/2026/01/09/Tailwind-as-a-Headwind/)
 - [My Home Page, Reimagined](https://blog.mrwillcom.com/2025/09/28/My-Home-Page-Reimagined/)
 - [Kickstarting a New Mac](https://blog.mrwillcom.com/2025/08/18/Kickstarting-a-New-Mac/)
 - [Refining My Domain Email](https://blog.mrwillcom.com/2025/08/01/Refining-My-Domain-Email/)
 - [2024：浏览器从 A 到 Z](https://blog.mrwillcom.com/2025/03/04/2024-browser-from-a-to-z/)
-- [数模转换：微喷打印影像输出！](https://blog.mrwillcom.com/2024/10/03/DAC-Giclee-Photography-Output/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
