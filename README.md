@@ -40,9 +40,9 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#84](https://github.com/MrWillCom/hexo-theme-cupertino/issues/84) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-2. ℹ️ Assigned issue [#84](https://github.com/MrWillCom/hexo-theme-cupertino/issues/84) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-3.  Labeled issue [#4825](https://github.com/shuding/nextra/issues/4825) in [shuding/nextra](https://github.com/shuding/nextra)
+1. 🗣 Commented on [#63](https://github.com/MrWillCom/hexo-theme-cupertino/issues/63#issuecomment-3738982162) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+2. ℹ️ Labeled issue [#84](https://github.com/MrWillCom/hexo-theme-cupertino/issues/84) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+3. ℹ️ Assigned issue [#84](https://github.com/MrWillCom/hexo-theme-cupertino/issues/84) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 4. ❗ Opened issue [#4825](https://github.com/shuding/nextra/issues/4825) in [shuding/nextra](https://github.com/shuding/nextra)
 <!--END_SECTION:activity-->
 
