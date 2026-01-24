@@ -40,10 +40,10 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#722](https://github.com/GitHubDaily/GitHubDaily/issues/722) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
-2. ❗ Opened issue [#3122](https://github.com/521xueweihan/HelloGitHub/issues/3122) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-3. ℹ️ Assigned issue [#3122](https://github.com/521xueweihan/HelloGitHub/issues/3122) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-4. ℹ️ Assigned PR [#87](https://github.com/MrWillCom/hexo-theme-cupertino/pull/87) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+1. ℹ️ Assigned PR [#89](https://github.com/MrWillCom/hexo-theme-cupertino/pull/89) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+2. ℹ️ Assigned PR [#88](https://github.com/MrWillCom/hexo-theme-cupertino/pull/88) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+3. ❗ Opened issue [#722](https://github.com/GitHubDaily/GitHubDaily/issues/722) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+4. ❗ Opened issue [#3122](https://github.com/521xueweihan/HelloGitHub/issues/3122) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 <!--END_SECTION:activity-->
 
 **📕 Recent Posts**
