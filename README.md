@@ -40,10 +40,10 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#89](https://github.com/MrWillCom/hexo-theme-cupertino/pull/89) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-2. ℹ️ Assigned PR [#88](https://github.com/MrWillCom/hexo-theme-cupertino/pull/88) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-3. ❗ Opened issue [#722](https://github.com/GitHubDaily/GitHubDaily/issues/722) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
-4. ❗ Opened issue [#3122](https://github.com/521xueweihan/HelloGitHub/issues/3122) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+1. 🗣 Commented on [#79531](https://github.com/vercel/next.js/issues/79531#issuecomment-3861977617) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#79531](https://github.com/vercel/next.js/issues/79531#issuecomment-3861911200) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#79531](https://github.com/vercel/next.js/issues/79531#issuecomment-3861865569) in [vercel/next.js](https://github.com/vercel/next.js)
+4. ℹ️ Assigned PR [#89](https://github.com/MrWillCom/hexo-theme-cupertino/pull/89) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 <!--END_SECTION:activity-->
 
 **📕 Recent Posts**
