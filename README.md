@@ -49,11 +49,11 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **📕 Recent Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing The Vernal Fortnightly](https://blog.mrwillcom.com/2026/03/20/announcing-vernal/)
 - [2025 年终总结](https://blog.mrwillcom.com/2026/01/25/review-2025/)
 - [Tailwind as a Headwind](https://blog.mrwillcom.com/2026/01/09/Tailwind-as-a-Headwind/)
 - [My Home Page, Reimagined](https://blog.mrwillcom.com/2025/09/28/My-Home-Page-Reimagined/)
 - [Kickstarting a New Mac](https://blog.mrwillcom.com/2025/08/18/Kickstarting-a-New-Mac/)
-- [Refining My Domain Email](https://blog.mrwillcom.com/2025/08/01/Refining-My-Domain-Email/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
