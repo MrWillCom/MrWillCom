@@ -49,11 +49,11 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **📕 Recent Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Teaching AI When to Stay Silent](https://blog.mrwillcom.com/2026/05/27/shrug/)
 - [不会翻译的话，其实可以不翻译的](https://blog.mrwillcom.com/2026/04/05/xxt-translation/)
 - [Announcing The Vernal Fortnightly](https://blog.mrwillcom.com/2026/03/20/announcing-vernal/)
 - [2025 年终总结](https://blog.mrwillcom.com/2026/01/25/review-2025/)
 - [Tailwind as a Headwind](https://blog.mrwillcom.com/2026/01/09/Tailwind-as-a-Headwind/)
-- [My Home Page, Reimagined](https://blog.mrwillcom.com/2025/09/28/My-Home-Page-Reimagined/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
