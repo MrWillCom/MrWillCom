@@ -60,7 +60,7 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 <summary>🕗 WakaTime</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C071%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%206%20mins-blue?style=flat)
 
@@ -91,26 +91,26 @@ Sunday                   791 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     6 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
-TypeScript               3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Other                    2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Swift                    2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Rust                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+JSON                     6 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
+TypeScript               3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Other                    2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Rust                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Swift                    2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 🔥 Editors: 
-Zed                      17 hrs 49 mins      ██████████████████████░░░   87.38 % 
-Unknown Editor           1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Xcode                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Zed                      19 hrs 8 mins       ██████████████████████░░░   88.15 % 
+Unknown Editor           1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Xcode                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Mac                      20 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 1 min (9.96%)
+⏱ AI Coding Time: 2 hrs 1 min (9.36%)
 
 ✍️ 342 lines written by AI, 511 lines written by hand (40.09% AI-written)
 
@@ -143,7 +143,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 01:25:02 UTC
+ Last Updated on 13/08/2026 01:26:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
