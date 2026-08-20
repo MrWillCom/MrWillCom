@@ -40,10 +40,10 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/MrWillCom/hexo-theme-cupertino-docs/pull/3#issuecomment-5324463652) in [MrWillCom/hexo-theme-cupertino-docs](https://github.com/MrWillCom/hexo-theme-cupertino-docs)
-2. 💪 Opened PR [#2](https://github.com/MrWillCom/haidian/pull/2) in [MrWillCom/haidian](https://github.com/MrWillCom/haidian)
-3. 💪 Opened PR [#1](https://github.com/MrWillCom/haidian/pull/1) in [MrWillCom/haidian](https://github.com/MrWillCom/haidian)
-4. 💪 Opened PR [#5](https://github.com/MrWillCom/linkdingX/pull/5) in [MrWillCom/linkdingX](https://github.com/MrWillCom/linkdingX)
+1. 🎉 Merged PR [#5](https://github.com/MrWillCom/linkdingX/pull/5) in [MrWillCom/linkdingX](https://github.com/MrWillCom/linkdingX)
+2. 🗣 Commented on [#3](https://github.com/MrWillCom/hexo-theme-cupertino-docs/pull/3#issuecomment-5324463652) in [MrWillCom/hexo-theme-cupertino-docs](https://github.com/MrWillCom/hexo-theme-cupertino-docs)
+3. 💪 Opened PR [#2](https://github.com/MrWillCom/haidian/pull/2) in [MrWillCom/haidian](https://github.com/MrWillCom/haidian)
+4. 💪 Opened PR [#1](https://github.com/MrWillCom/haidian/pull/1) in [MrWillCom/haidian](https://github.com/MrWillCom/haidian)
 <!--END_SECTION:activity-->
 
 **📕 Recent Posts**
