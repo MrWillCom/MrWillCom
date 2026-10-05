@@ -40,10 +40,10 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/MrWillCom/quote0/pull/10) in [MrWillCom/quote0](https://github.com/MrWillCom/quote0)
-2. ℹ️ Labeled issue [#3406](https://github.com/emotion-js/emotion/issues/3406) in [emotion-js/emotion](https://github.com/emotion-js/emotion)
+1. 🔒 Closed issue [#97](https://github.com/MrWillCom/hexo-theme-cupertino/issues/97) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+2. 🎉 Merged PR [#10](https://github.com/MrWillCom/quote0/pull/10) in [MrWillCom/quote0](https://github.com/MrWillCom/quote0)
 3. ℹ️ Labeled issue [#3406](https://github.com/emotion-js/emotion/issues/3406) in [emotion-js/emotion](https://github.com/emotion-js/emotion)
-4. ❗ Opened issue [#3406](https://github.com/emotion-js/emotion/issues/3406) in [emotion-js/emotion](https://github.com/emotion-js/emotion)
+4. ℹ️ Labeled issue [#3406](https://github.com/emotion-js/emotion/issues/3406) in [emotion-js/emotion](https://github.com/emotion-js/emotion)
 <!--END_SECTION:activity-->
 
 **📕 Recent Posts**
