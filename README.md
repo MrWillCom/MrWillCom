@@ -67,21 +67,21 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                609 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-🌆 Daytime                1537 commits        ████████░░░░░░░░░░░░░░░░░   32.05 % 
-🌃 Evening                2238 commits        ████████████░░░░░░░░░░░░░   46.67 % 
-🌙 Night                  411 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+🌞 Morning                608 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+🌆 Daytime                1537 commits        ████████░░░░░░░░░░░░░░░░░   32.02 % 
+🌃 Evening                2244 commits        ████████████░░░░░░░░░░░░░   46.75 % 
+🌙 Night                  411 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   675 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Tuesday                  713 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Wednesday                751 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Thursday                 469 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Friday                   688 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Saturday                 713 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Sunday                   786 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Monday                   675 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Tuesday                  713 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Wednesday                757 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Thursday                 469 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Friday                   687 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Saturday                 713 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Sunday                   786 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 ```
 
 
@@ -91,44 +91,41 @@ Sunday                   786 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.49 % 
-TypeScript               1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   31.00 % 
-Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-CSS                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-SCSS                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Other                    2 hrs 17 mins       █████████████████░░░░░░░░   67.48 % 
+TypeScript               53 mins             ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+SCSS                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-Bot                      2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.56 % 
-Cursor                   1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   33.54 % 
-Agent                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Zed                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Bot                      2 hrs 17 mins       █████████████████░░░░░░░░   67.48 % 
+Zed                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Agent                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Cursor                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 💻 Operating System: 
-Mac                      5 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 48 mins (89.73%)
+⏱ AI Coding Time: 2 hrs 50 mins (83.71%)
 
-✍️ 1,977 lines written by AI, 27 lines written by hand (98.65% AI-written)
+✍️ 13 lines written by AI, 27 lines written by hand (32.5% AI-written)
 
-🔤 64,369 Input Tokens, 4,917 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.33 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 231 AI Prompts
+🧠 4 AI Sessions, 198 AI Prompts
 
-Sonnet                   2,994 lines         ████████████████████████░   96.36 % 
-GPT                      113 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Sonnet                   49 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.65% of written lines came from AI
-📝 Concise Prompter — average 48 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 0.96% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 32.5% of written lines came from AI
+📝 Concise Prompter — average 20 characters per prompt
+🔁 Iterative Prompter — average 50 prompts per session
+🚀 High AI Trust — 37.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,7 +141,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 03:11:31 UTC
+ Last Updated on 15/10/2026 02:50:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
