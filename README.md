@@ -40,10 +40,10 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#97](https://github.com/MrWillCom/hexo-theme-cupertino/issues/97) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-2. 🎉 Merged PR [#10](https://github.com/MrWillCom/quote0/pull/10) in [MrWillCom/quote0](https://github.com/MrWillCom/quote0)
-3. ℹ️ Labeled issue [#3406](https://github.com/emotion-js/emotion/issues/3406) in [emotion-js/emotion](https://github.com/emotion-js/emotion)
-4. ℹ️ Labeled issue [#3406](https://github.com/emotion-js/emotion/issues/3406) in [emotion-js/emotion](https://github.com/emotion-js/emotion)
+1. ❌ Closed PR [#4](https://github.com/MrWillCom/hexo-theme-cupertino-docs/pull/4) in [MrWillCom/hexo-theme-cupertino-docs](https://github.com/MrWillCom/hexo-theme-cupertino-docs)
+2. 💪 Opened PR [#4](https://github.com/MrWillCom/hexo-theme-cupertino-docs/pull/4) in [MrWillCom/hexo-theme-cupertino-docs](https://github.com/MrWillCom/hexo-theme-cupertino-docs)
+3. 🗣 Commented on [#3](https://github.com/MrWillCom/hexo-theme-cupertino-docs/pull/3#issuecomment-6556205682) in [MrWillCom/hexo-theme-cupertino-docs](https://github.com/MrWillCom/hexo-theme-cupertino-docs)
+4. 🔒 Closed issue [#97](https://github.com/MrWillCom/hexo-theme-cupertino/issues/97) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 <!--END_SECTION:activity-->
 
 **📕 Recent Posts**
