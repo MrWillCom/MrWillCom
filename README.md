@@ -40,10 +40,10 @@ RUrvaJiB9KJTTtLtAQD5gYmL5/q+lmUaEnaGV2GKd6tlGMKJjDJpTXkuyyywAA==
 **⚡ Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/MrWillCom/hexo-theme-cupertino/issues/98#issuecomment-6738950358) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-2. 🗣 Commented on [#98](https://github.com/MrWillCom/hexo-theme-cupertino/issues/98#issuecomment-6647592584) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
-3. ❌ Closed PR [#4](https://github.com/MrWillCom/hexo-theme-cupertino-docs/pull/4) in [MrWillCom/hexo-theme-cupertino-docs](https://github.com/MrWillCom/hexo-theme-cupertino-docs)
-4. 💪 Opened PR [#4](https://github.com/MrWillCom/hexo-theme-cupertino-docs/pull/4) in [MrWillCom/hexo-theme-cupertino-docs](https://github.com/MrWillCom/hexo-theme-cupertino-docs)
+1. 🗣 Commented on [#98](https://github.com/MrWillCom/hexo-theme-cupertino/issues/98#issuecomment-6897046846) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+2. 🔒 Closed issue [#98](https://github.com/MrWillCom/hexo-theme-cupertino/issues/98) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+3. 🗣 Commented on [#98](https://github.com/MrWillCom/hexo-theme-cupertino/issues/98#issuecomment-6738950358) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+4. 🗣 Commented on [#98](https://github.com/MrWillCom/hexo-theme-cupertino/issues/98#issuecomment-6647592584) in [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
 <!--END_SECTION:activity-->
 
 **📕 Recent Posts**
